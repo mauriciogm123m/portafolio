@@ -1,0 +1,122 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+
+}
+
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header
+{
+
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(64, 67, 67);
+    color: rgb(255, 255, 255);
+
+}
+header
+{
+    background-image: url(Imagenes/11731.jpg);
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(98, 180, 180);
+    color: black;
+    height: 0%;
+    margin-top: -8%;
+}
+
+
+.main
+{
+    margin-left: auto;
+    width: 80vw;
+    height: 80vh;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-top: 11%;
+}
+
+.letra
+{
+    margin-top: 12%;
+}
+
+.enlaces
+{
+    position: absolute;
+    margin-top: -21%;
+    margin-left: 43%;
+}
+
+
+h1
+{
+    font-size: 3em;
+    margin-top: -12%;
+}
+
+.lorem1
+{
+    margin-top: 2%;
+}
+
+.diseños
+{
+    margin-left: 20%; 
+}
+
+.consultas
+{
+    margin-top: -8%;
+    margin-left: 70%;
+}
+
+.talleres
+{
+    margin-left: 20%; 
+    margin-top: 2%;
+}
+
+.retos
+{
+    margin-top: -8%;
+    margin-left: 70%;
+    
+}
+
+.git
+{
+    width: 5%;
+    margin-top: -26%;
+    position: absolute;
+    margin-left: 3%;
+}
+
+.neo
+{
+    margin-top: -26%;
+    position: absolute;
+    margin-left: 44%;
+}
+
+.iue
+{
+    margin-top: -26%;
+    position: absolute;
+    margin-left: 44%;
+    margin-left: 90%
+}
+
+.enlaces
+{
+    color: #00dcff;
+}
